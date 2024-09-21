@@ -1,6 +1,6 @@
 # Business-Portfolio
 
-This is a static website project for Renold, showcasing the company’s sectors, products, and contact details. The website is built using HTML, CSS, and  JavaScript for a responsive image slider.It includes sections such as the home slider, about us, sectors, products, support, and contact form.
+This is a static website project for Renold, showcasing the company’s sectors, products, and contact details. The website is built using HTML, CSS, and  JavaScript .It includes sections such as the home slider, about us, sectors, products, support, and contact form.
 
 # Features
 
